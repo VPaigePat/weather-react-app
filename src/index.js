@@ -1,7 +1,6 @@
 import React from 'react';
 import ReactDOM from 'react-dom/client';
 import './index.css';
-import App from './App';
 import Weather from './weather';
 import reportWebVitals from './reportWebVitals';
 
@@ -10,6 +9,9 @@ root.render(
   <React.StrictMode>
     <h1>Weather App</h1>
     <Weather />
+    <div>
+      <p><a href="#">Open-Source code</a>, by <a href="">Virginia-Paige Patrick</a> from <a href='https://www.shecodes.io/'target='_blank'>SheCodes</a></p>
+    </div>
   </React.StrictMode>
 );
 
