@@ -11,7 +11,7 @@ root.render(
     <h1>Weather App</h1>
     <Weather />
     <div>
-      <p><a href="https://github.com/VPaigePat/weather-react-app"target='_blank'>Open-Source code</a>, by <a href="https://github.com/VPaigePat"target='_blank'>Virginia-Paige Patrick</a> from <a href='https://www.shecodes.io/'target='_blank'>SheCodes</a></p>
+      <p><a href="https://github.com/VPaigePat/weather-react-app">Open-Source code</a>, by <a href="https://github.com/VPaigePat">Virginia-Paige Patrick</a> from <a href='https://www.shecodes.io/'>SheCodes</a></p>
     </div>
   </React.StrictMode>
 );
